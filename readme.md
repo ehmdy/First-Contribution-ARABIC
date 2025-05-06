@@ -2315,7 +2315,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Yarob50">
-                <img src="./images/avatar.jpg" width="50">
+                <img src="./images/avatar.jpg" width="100">
                 <br>
                 <h2>AbdelRahman Hamdy</h2>
             </a>
